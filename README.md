@@ -4,7 +4,7 @@ Intruduction to MultiselectV2-widget
 
 @author: Ma Xiupeng(RocShow)
 
-I forked this repository from jquery-ui-multiselect-widget(http://www.erichynds.com/jquery/jquery-ui-multiselect-widget/). Then I renamed it as MultiselectV2, because we still need to use the original widget in our projects. 
+I forked this repository from jquery-ui-multiselect-widget(http://www.erichynds.com/jquery/jquery-ui-multiselect-widget/). Then I add version tag 'V2' after it as MultiselectV2, because we still need to use the original widget in our projects. 
 
 What did I Change
 --------------------------------------------
