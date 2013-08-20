@@ -24,5 +24,7 @@ What did I Change
 
 - Selected selections will be shown as the title attribute of the button label.
 
+- Changed the css style of "checkAll" and "uncheckAll", the former font size was too small.
+
 Some more changes are underway...
 ---------------------------------------------
